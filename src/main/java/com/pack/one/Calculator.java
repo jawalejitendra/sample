@@ -6,12 +6,12 @@ public class Calculator {
         return a + b;
     }
 
-    public int multiply2Num (int a, int b){
+    public int multiply2Num(int a, int b) {
         return a * b;
     }
 
-    public float divide2Num (int a, int b) {
-        return (float)(a)/b;
+    public float divide2Num(int a, int b) {
+        return (float) (a) / b;
     }
 
 }
